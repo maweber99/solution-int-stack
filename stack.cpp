@@ -54,7 +54,7 @@ bool Stack::isEmpty() {
 
 // this is a programmer debug routine
 // DO NOT LEAVE THIS IN PRODUCTION CODE
-// this not a routin appropriate for final testing
+// this is not a method appropriate for final testing
 // it is only for debugging during development
 void Stack::dumpStack() {
     std::cout << "dumping whole stack..." << std::endl;
